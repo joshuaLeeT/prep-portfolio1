@@ -1,0 +1,96 @@
+html {
+  font-family: "Source sans pro", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-image: url("assets/motherboard-wallpaper.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.white-text {
+  color: white;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.page-header {
+  background-color: darkslategray;
+}
+
+.nav-item {
+  text-decoration: darkslategray;
+}
+
+.nav-item:hover {
+  color: steelblue;
+}
+
+.hero-image {
+  background-image: url("assets/lfz-logo.png");
+  background-color: #303b43;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto 80%;
+  height: 350px;
+}
+
+.student-name {
+  font-size: 80px;
+  background-color: #303b43;
+  border-top: 5px double white;
+  border-bottom: 5px double white;
+}
+
+.about-section {
+  background-color: whitesmoke;
+}
+
+.about-image {
+  max-height: 80%;
+  border: 6px solid slategray;
+}
+
+.text-align-reset {
+  text-align: initial;
+}
+
+.tech-section {
+  background-color: gainsboro;
+}
+
+.projects-section {
+  background-color: snow;
+}
+
+.contact-section {
+  background-color: #303b43;
+}
+
+.blue-text {
+  color: lightblue;
+}
